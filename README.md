@@ -10,7 +10,7 @@ My technical skills include:
 	- Python stack🐍: Django,REST APIs👨🏼‍💻.
 	- Java stack🍃: Spring Boot, REST APIs.
 	- .NET stack🛜: C#, ASP.NET Core.
-	- Frontend)🖼: Angular, React(JSX, TSX.
+	- Frontend)🖼: Angular, React(JSX, TSX).
 	- Databases🧠: MySQL, SQL Server, MongoDB.
 	- Desing patterns♾️: CQRS(Command Query Responsability Segregation).
 	- Testing frameworks✅: xUnit.
