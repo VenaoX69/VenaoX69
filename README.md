@@ -1,6 +1,6 @@
 I belong to Jesus.
 
-Hi, I'm Daniel Henao Rivera. I was born and raised in Santa Barbara, Antioqui, Colombia, and I'm currently 22 years old, I'm a software developer and I am located in Caldas - Antioquia.
+Hi, I'm Daniel Henao Rivera. I was born and raised in Santa Barbara, Antioquia, Colombia, and I'm currently 22 years old, I'm a software developer and I am located in Caldas - Antioquia.
 
 I'm passionate about continuos learning - I see every new challenge is an opportunity, and I embrace them day by day.
 
